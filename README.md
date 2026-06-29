@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29466804/README.md)
+[README.md](https://github.com/user-attachments/files/29467180/README.md)
 <!-- ██████████████████████████████████████████████████████████████████████████
      NIDA SUBAŞI — GitHub Profile README
      Bilişim Güvenliği Teknolojisi | Cybersecurity
@@ -43,7 +43,7 @@ class CybersecurityAnalyst:
             "Python Security Automation",
         ]
 
-        self.certs      = ["CRTOM", "BTK × 3", "Cisco NetAcad × 3"]
+        self.certs      = ["CRTOM", "BTK × 3", "Cisco NetAcad × 5"]
         self.languages  = ["Turkish (Native)", "English (A2→B1, active)", "German (Beginner, active)"]
         self.mindset    = "Defend first. Understand the attacker. Then build better."
 
