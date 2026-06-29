@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/29466804/README.md)
 <!-- ██████████████████████████████████████████████████████████████████████████
      NIDA SUBAŞI — GitHub Profile README
      Bilişim Güvenliği Teknolojisi | Cybersecurity
@@ -14,7 +15,7 @@
 <!-- BADGE ROW 1 — CONTACT & SOCIAL -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nida-subaşı)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidaasubasi@gmail.com)
-[![Location](https://img.shields.io/badge/Nevşehir%20%2F%20Kayseri%2C%20TR-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00FF41)](#)
+[![Location](https://img.shields.io/badge/Malatya%2C%20TR-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00FF41)](#)
 [![Profile Views](https://komarev.com/ghpvc/?username=nida-subasi&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS)](#)
 
 </div>
@@ -31,7 +32,7 @@ class CybersecurityAnalyst:
         self.university = "Kapadokya University (Kapadokya MYO)"
         self.gpa        = 3.28 / 4.00
         self.graduation = "June 2026"
-        self.location   = "Nevşehir / Kayseri, TR"
+        self.location   = "Malatya, TR"
         self.email      = "nidaasubasi@gmail.com"
 
         self.focus      = [
